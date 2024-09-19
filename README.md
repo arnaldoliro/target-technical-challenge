@@ -44,5 +44,7 @@ Terceiro passo: Verificar a primeira sala
 Obtendo qualquer uma das respostas, só preciso verificar a próxima sala e ver a qual caso que tenha sobrado ela satisfaz, por exemplo:
 
 Caso a primeira sala a lampada esteja apagada, verifico a temperatura. Se ela estiver quente Lampada X = Interrupitor A
+
 Vou para a próxima sala, se a lampada estiver apagada então Lampada Y = Interrupitor C
+
 E por eliminação Lampada Z = Interrupitor B
